@@ -1,1 +1,0 @@
-https://console.cloud.google.com/home/dashboard?project=qwiklabs-gcp-04-31fc0d030d57&authuser=1&pli=1
